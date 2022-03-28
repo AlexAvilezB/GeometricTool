@@ -1,8 +1,8 @@
-# curso-practico-javascript
+// curso-practico-javascript
 
 ...
 
-## Taller #1: figuras geometricas
+// Taller #1: figuras geometricas
 
 -Primer paso: Definir las formas
 -Segundo paso: implementar las formulas en javascript
