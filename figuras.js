@@ -2,8 +2,6 @@
 
 console.group("Cuadrados");
 
-/*const ladoCuadrado = 5;
-console.log("Los lados del cuadrado miden: " + ladoCuadrado + " centimetros");*/
 
 function perimetroCuadrado(lado) {
   return lado * 4;
@@ -27,19 +25,6 @@ console.groupEnd();
 
 console.group("Triangulos");
 
-// const ladoTriangulo1 = 6;
-// const ladoTriangulo2 = 6;
-// const baseTriangulo = 4;
-
-// console.log(
-//   "Los lados del triangulo miden: " +
-//     ladoTriangulo1 +
-//     " centimetros, " +
-//     ladoTriangulo2 +
-//     " centimetros, " +
-//     baseTriangulo +
-//     " centimetros"
-// );
 
 function perimetroTriangulo(lado1, lado2, base) {
   return lado1 + lado2 + base;
@@ -65,9 +50,6 @@ const PI = Math.PI;
 
 console.log("La medida de PI es: " + PI);
 
-// const radioCirculo = 4;
-
-// console.log("El radio del circulo es de: " + radioCirculo + " centimetros");
 
 function diametroCirculo(radio) {
   return radio * 2;
